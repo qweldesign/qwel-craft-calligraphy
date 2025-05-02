@@ -1,8 +1,10 @@
-# QWEL CREATIVE TEMPLATE
+# 日本語フォント比較 | Calligraphy
 
-[QWEL.DESIGN](https://qwel.design/) の作品集 Creative Crafts のためのテンプレート
+日本語散文形態 (詩) の縦書きに適格なフォントを比較して選択するために作ったもの。
 
-[https://qwel.design/creative/](https://qwel.design/creative/)
+[https://qwel.design/creative/calligraphy/](https://qwel.design/creative/calligraphy/)
+
+---
 
 ---
 
